@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on July 8, 2021.
 Started coding assessment for potential job using vanilla JS.
 
 ### R1D2
+leetcode + closure activities; might work on coding assessment some more later tonight too
